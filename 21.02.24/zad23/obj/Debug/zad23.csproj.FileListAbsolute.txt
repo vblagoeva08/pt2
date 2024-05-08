@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\21.02.24\zad23\bin\Debug\zad23.exe.config
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\21.02.24\zad23\bin\Debug\zad23.exe
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\21.02.24\zad23\bin\Debug\zad23.pdb
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\21.02.24\zad23\obj\Debug\zad23.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\21.02.24\zad23\obj\Debug\zad23.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\21.02.24\zad23\obj\Debug\zad23.exe
+C:\Users\STUDENTS-1409-11\Desktop\Viktoriq9a\21.02.24\zad23\obj\Debug\zad23.pdb
